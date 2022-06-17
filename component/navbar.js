@@ -14,7 +14,7 @@ function navbar(){
                         </span>
                         <a href="Search.html"> <span>Search</span></a></div>
             </div>
-            <div id="navbar-left-bottom" style="color: white;">Tueday,May 03,2022| New Delhi 31 C</div>
+            <div id="navbar-left-bottom" style="color: white;">Friday,June 17,2022| New Delhi 31 C</div>
         </div>
         <div id="navbar-mid"><a href="index.html"><img id="navbar-img" src="https://images.hindustantimes.com/images/app-images/2022/2/ht-logo.svg" style="  height: 50px;"  alt=""></a></div>
         <div id="navbar-right">
